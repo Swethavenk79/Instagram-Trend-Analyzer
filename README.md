@@ -32,7 +32,7 @@ This project automates the process of identifying top-performing Instagram posts
 Engagement Rate = (Likes + Comments) / Total Followers × 100
 ```
 
-## 🧪 Results Summary
+## Results Summary
 
 | Dataset       | Posts | Accuracy with Features | Without Features | Top Insight                         |
 |---------------|-------|------------------------|------------------|--------------------------------------|
@@ -42,7 +42,7 @@ Engagement Rate = (Likes + Comments) / Total Followers × 100
 
 Average accuracy boost with features: **+9.7%**
 
-## 🗂Modules
+## Modules
 
 1. **Data Extraction** – via Instagram Graph API
 2. **Data Processing** – clean and structure raw data
